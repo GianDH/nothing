@@ -1,7 +1,6 @@
-whitelisted = {
-614944054,
-2,
-3
+userids = {
+[1] = true,
+[USERID HERE] = true,
+[USERIDHERE] = true
 }
-
-return Whitelist
+return userids
