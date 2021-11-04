@@ -1,8 +1,8 @@
 -- Whitelist3.1 --
 
 userids = {
-[1] = true,
-[USERID HERE] = true,
-[USERIDHERE] = true
+[161494405] = true,
+[423423] = true,
+[5435353] = true
 }
 return userids
