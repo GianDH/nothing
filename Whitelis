@@ -1,3 +1,5 @@
+-- Whitelist3.1 --
+
 userids = {
 [1] = true,
 [USERID HERE] = true,
